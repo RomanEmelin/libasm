@@ -1,4 +1,4 @@
-#libasm
+# libasm
 Write the following functions in x64 assembly (in the Intel syntax):
 ```C
 int		ft_strlen(char const *str);
@@ -8,7 +8,7 @@ ssize_t		ft_write(int fd, void const *buf, size_t nbyte);
 ssize_t		ft_read(int fd, void *buf, size_t nbyte);
 char		*ft_strdup(char const *s1);
 ```
-##Compile
+## Compile
 For compilation use in root directory.
 ```shell 
 make
